@@ -1,4 +1,4 @@
-# 🔐 Smart Door Lock using ESP32-CAM (Arduino IDE)
+# Smart Door Lock using ESP32-CAM (Arduino IDE)
 
 A smart door lock system using the **ESP32-CAM** module, enabling face recognition-based door access control. Built with the Arduino IDE for a secure, modern, and contactless solution.
 
@@ -6,7 +6,7 @@ A smart door lock system using the **ESP32-CAM** module, enabling face recogniti
 
 
 
-## 🔧 Components Used
+##  Components Used
 
 - ESP32-CAM Module  
 - FTDI Programmer (for flashing code)  
@@ -17,7 +17,7 @@ A smart door lock system using the **ESP32-CAM** module, enabling face recogniti
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 
 1. Connect ESP32-CAM to FTDI programmer (TX↔RX, RX↔TX, GND↔GND, 5V↔5V).
@@ -32,7 +32,7 @@ A smart door lock system using the **ESP32-CAM** module, enabling face recogniti
 
 ---
 
-## 📸 Features
+##  Features
 
 - Face Detection and Recognition  
 - Wireless operation via Wi-Fi  
@@ -52,7 +52,6 @@ https://github.com/user-attachments/assets/03ae5ab4-0d76-4f71-b2ad-bed2e1f387fb
 
 
 
-https://github.com/user-attachments/assets/4ea6918d-46f0-4404-9497-10d40f78d638
 
 
 
