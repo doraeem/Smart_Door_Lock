@@ -46,10 +46,9 @@ A smart door lock system using the **ESP32-CAM** module, enabling face recogniti
 
 
 
-
 https://github.com/user-attachments/assets/03ae5ab4-0d76-4f71-b2ad-bed2e1f387fb
 
-
+https://github.com/user-attachments/assets/1ddd51b3-b5d4-4fc9-9384-4d5152f9bc8a
 
 
 
